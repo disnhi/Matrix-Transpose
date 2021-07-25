@@ -1,1 +1,3 @@
 # Matrix-Transpose
+
+Transpose.py contains two functions, transpose and main. The transpose function will use the matrix, which is just a list of list, created using the inputted text file in main, and it will go through each list within the matrix to create a new list using the number in each list of the corresponding position. The text file that it uses to create the matrix will be inputted as a command line parameter and it'll create a new text file, also passed as a command line parameter. The newly created text file will contain the transposed matrix, outputted in the same format as the inputted text file.
